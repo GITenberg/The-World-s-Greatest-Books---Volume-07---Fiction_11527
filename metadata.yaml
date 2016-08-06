@@ -1,0 +1,43 @@
+_repo: The-World-s-Greatest-Books---Volume-07---Fiction_11527
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Hammerton, John Alexander, Sir
+    aliases:
+    - Hammerton, Sir John Alexander
+    - Hammerton, J. A. (John Alexander)
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '4519'
+    url: http://www.gutenberg.org/2009/agents/4519
+    wikipedia: http://en.wikipedia.org/wiki/John_Alexander_Hammerton
+  - agent_name: Mee, Arthur
+    birthdate: 1875
+    deathdate: 1943
+    gutenberg_agent_id: '4518'
+    url: http://www.gutenberg.org/2009/agents/4518
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Mee
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11527'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Fiction'
+- GITenberg
+tableOfContents: 'Thomas Love Peacock: Headlong Hall. Nightmare Abbey -- Jane Porter:
+  Scottish chiefs -- Pushkin: The captain''s daughter -- Rabelais: Gargantua and Pantagruel
+  -- Charles Reade: Hard cash. Never too late to mend. The cloister and the hearth
+  -- Samuel Richardson: Pamela. Clarissa Harlowe. Sir Charles Grandison -- Jean Paul
+  Richter: Hesperus. Titan -- Peter Rosegger: Papers of the forest schoolmaster --
+  Jean Jacques Rousseau: New Heloise -- Bernardin de Saint Pierre: Paul and Virginia
+  -- George Sand: Consuelo. Mauprat -- Michael Scott: Tom Cringle''s log -- Sir Walter
+  Scott: Antiquary. Guy Mannering. Heart of Midlothian. Ivanhoe. Kenilworth. Old Mortality.
+  Peveril of the Peak.'
+title: The World's Greatest Books — Volume 07 — Fiction
+url: http://www.gutenberg.org/ebooks/11527
